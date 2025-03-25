@@ -191,6 +191,9 @@
         <mxCell id="1fZmsGqSmpbLErZDRHlb-11" value="Release Approval" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-390" y="960" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1fZmsGqSmpbLErZDRHlb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1fZmsGqSmpbLErZDRHlb-13" target="1fZmsGqSmpbLErZDRHlb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1fZmsGqSmpbLErZDRHlb-13" value="Prod Release" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-390" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
